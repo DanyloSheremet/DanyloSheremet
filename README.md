@@ -8,6 +8,14 @@
 
 <h1><a href="https://danylosheremet.github.io/Konfigurator/">Konfigurator stylu</a></h1>
 <p>• Konfigurator stylu is one of the exam sheets ee.09</p>
+<img src="https://github.com/DanyloSheremet/DanyloSheremet/blob/main/images/Carousel.png">
+
+<h1><a href="https://danylosheremet.github.io/Konfigurator/">Konfigurator stylu</a></h1>
+<p>• Konfigurator stylu is one of the exam sheets ee.09</p>
+<img src="https://github.com/DanyloSheremet/DanyloSheremet/blob/main/images/Zakład Kamieniarski.png">
+
+<h1><a href="https://danylosheremet.github.io/Konfigurator/">Konfigurator stylu</a></h1>
+<p>• Konfigurator stylu is one of the exam sheets ee.09</p>
 <img src="https://github.com/DanyloSheremet/DanyloSheremet/blob/main/images/Konfigurator.png">
 
 
